@@ -1,0 +1,151 @@
+------ File: log-2023-6-28_22-30-50.518.txt ------
+[Postbox] 2023-6-28 22:30:50.518 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/guard_db/db_sqlite
+[Postbox] 2023-6-28 22:30:50.518 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/media/storage/db/db_sqlite
+[Postbox] 2023-6-28 22:30:50.519 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/guard_db/db_sqlite
+[Postbox] 2023-6-28 22:30:50.519 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/media/storage/db/db_sqlite
+[Postbox] 2023-6-28 22:30:50.519 Did set up cipher
+[Postbox] 2023-6-28 22:30:50.519 Did set up cipher
+[Postbox] 2023-6-28 22:30:50.519 isEncrypted prepare...
+[Postbox] 2023-6-28 22:30:50.519 isEncrypted prepare...
+[Postbox] 2023-6-28 22:30:50.519 isEncrypted prepare done
+[Postbox] 2023-6-28 22:30:50.519 isEncrypted prepare done
+[Postbox] 2023-6-28 22:30:50.519 isEncrypted step done
+[Postbox] 2023-6-28 22:30:50.519 Did set up encryption
+[Postbox] 2023-6-28 22:30:50.519 isEncrypted step done
+[Postbox] 2023-6-28 22:30:50.519 Did set up encryption
+[Postbox] 2023-6-28 22:30:50.519 Did set up pragmas
+[Postbox] 2023-6-28 22:30:50.519 Did set up pragmas
+[Postbox] 2023-6-28 22:30:50.519 Did set up checkpoint_fullfsync
+[Postbox] 2023-6-28 22:30:50.519 Did set up checkpoint_fullfsync
+[Postbox] 2023-6-28 22:30:50.519 Did begin transaction
+[Postbox] 2023-6-28 22:30:50.519 Did begin transaction
+[Postbox] 2023-6-28 22:30:50.519 Did load tables
+[Postbox] 2023-6-28 22:30:50.519 Did commit final
+[Postbox] 2023-6-28 22:30:50.520 Did load tables
+[Postbox] 2023-6-28 22:30:50.520 Did commit final
+[Postbox] 2023-6-28 22:30:50.520 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/db/db_sqlite
+[Postbox] 2023-6-28 22:30:50.520 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/db/db_sqlite
+[Postbox] 2023-6-28 22:30:50.520 Did set up cipher
+[Postbox] 2023-6-28 22:30:50.520 isEncrypted prepare...
+[Postbox] 2023-6-28 22:30:50.520 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/media/cache-storage/db/db_sqlite
+[Postbox] 2023-6-28 22:30:50.520 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/media/cache-storage/db/db_sqlite
+[Postbox] 2023-6-28 22:30:50.520 Did set up cipher
+[Postbox] 2023-6-28 22:30:50.520 isEncrypted prepare...
+[Postbox] 2023-6-28 22:30:50.520 isEncrypted prepare done
+[Postbox] 2023-6-28 22:30:50.520 isEncrypted step done
+[Postbox] 2023-6-28 22:30:50.520 Did set up encryption
+[Postbox] 2023-6-28 22:30:50.520 Did set up pragmas
+[Postbox] 2023-6-28 22:30:50.520 Did set up checkpoint_fullfsync
+[Postbox] 2023-6-28 22:30:50.520 Did begin transaction
+[Postbox] 2023-6-28 22:30:50.520 Did load tables
+[Postbox] 2023-6-28 22:30:50.520 Did commit final
+[Postbox] 2023-6-28 22:30:50.520 isEncrypted prepare done
+[Postbox] 2023-6-28 22:30:50.520 isEncrypted step done
+[Postbox] 2023-6-28 22:30:50.520 Did set up encryption
+[Postbox] 2023-6-28 22:30:50.520 Did set up pragmas
+[Postbox] 2023-6-28 22:30:50.520 Did set up checkpoint_fullfsync
+[Postbox] 2023-6-28 22:30:50.520 Did begin transaction
+[Postbox] 2023-6-28 22:30:50.521 Did load tables
+[Postbox] 2023-6-28 22:30:50.521 Did commit final
+[Postbox] 2023-6-28 22:30:50.521 AccountManager: currentAccountId = Optional(TelegramCore.AccountRecordId(rawValue: 1063154370342547169))
+[Postbox] 2023-6-28 22:30:50.521 AccountManager initialization took 4.111051559448242 ms
+[Postbox] 2023-6-29 00:57:51.438 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/media/storage/db/db_sqlite
+[Postbox] 2023-6-29 00:57:51.438 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/guard_db/db_sqlite
+[Postbox] 2023-6-29 00:57:51.441 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/media/storage/db/db_sqlite
+[Postbox] 2023-6-29 00:57:51.441 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/guard_db/db_sqlite
+[Postbox] 2023-6-29 00:57:51.441 Did set up cipher
+[Postbox] 2023-6-29 00:57:51.441 Did set up cipher
+[Postbox] 2023-6-29 00:57:51.441 isEncrypted prepare...
+[Postbox] 2023-6-29 00:57:51.441 isEncrypted prepare...
+[Postbox] 2023-6-29 00:57:51.442 isEncrypted prepare done
+[Postbox] 2023-6-29 00:57:51.442 isEncrypted step done
+[Postbox] 2023-6-29 00:57:51.442 isEncrypted prepare done
+[Postbox] 2023-6-29 00:57:51.442 Did set up encryption
+[Postbox] 2023-6-29 00:57:51.442 isEncrypted step done
+[Postbox] 2023-6-29 00:57:51.442 Did set up encryption
+[Postbox] 2023-6-29 00:57:51.442 Did set up pragmas
+[Postbox] 2023-6-29 00:57:51.442 Did set up pragmas
+[Postbox] 2023-6-29 00:57:51.442 Did set up checkpoint_fullfsync
+[Postbox] 2023-6-29 00:57:51.442 Did set up checkpoint_fullfsync
+[Postbox] 2023-6-29 00:57:51.442 Did begin transaction
+[Postbox] 2023-6-29 00:57:51.442 Did begin transaction
+[Postbox] 2023-6-29 00:57:51.442 Did load tables
+[Postbox] 2023-6-29 00:57:51.442 Did commit final
+[Postbox] 2023-6-29 00:57:51.442 Did load tables
+[Postbox] 2023-6-29 00:57:51.442 Did commit final
+[Postbox] 2023-6-29 00:57:51.442 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/db/db_sqlite
+[Postbox] 2023-6-29 00:57:51.442 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/db/db_sqlite
+[Postbox] 2023-6-29 00:57:51.442 Did set up cipher
+[Postbox] 2023-6-29 00:57:51.442 isEncrypted prepare...
+[Postbox] 2023-6-29 00:57:51.442 isEncrypted prepare done
+[Postbox] 2023-6-29 00:57:51.442 isEncrypted step done
+[Postbox] 2023-6-29 00:57:51.442 Did set up encryption
+[Postbox] 2023-6-29 00:57:51.442 Did set up pragmas
+[Postbox] 2023-6-29 00:57:51.442 Did set up checkpoint_fullfsync
+[Postbox] 2023-6-29 00:57:51.442 Did begin transaction
+[Postbox] 2023-6-29 00:57:51.442 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/media/cache-storage/db/db_sqlite
+[Postbox] 2023-6-29 00:57:51.443 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/media/cache-storage/db/db_sqlite
+[Postbox] 2023-6-29 00:57:51.443 Did set up cipher
+[Postbox] 2023-6-29 00:57:51.443 isEncrypted prepare...
+[Postbox] 2023-6-29 00:57:51.443 Did load tables
+[Postbox] 2023-6-29 00:57:51.443 Did commit final
+[Postbox] 2023-6-29 00:57:51.443 isEncrypted prepare done
+[Postbox] 2023-6-29 00:57:51.443 isEncrypted step done
+[Postbox] 2023-6-29 00:57:51.443 Did set up encryption
+[Postbox] 2023-6-29 00:57:51.443 Did set up pragmas
+[Postbox] 2023-6-29 00:57:51.443 Did set up checkpoint_fullfsync
+[Postbox] 2023-6-29 00:57:51.443 Did begin transaction
+[Postbox] 2023-6-29 00:57:51.443 Did load tables
+[Postbox] 2023-6-29 00:57:51.443 Did commit final
+[Postbox] 2023-6-29 00:57:51.447 AccountManager: currentAccountId = Optional(TelegramCore.AccountRecordId(rawValue: 1137131999443963069))
+[Postbox] 2023-6-29 00:57:51.447 AccountManager initialization took 11.500000953674316 ms
+[Postbox] 2023-6-29 18:09:07.123 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/guard_db/db_sqlite
+[Postbox] 2023-6-29 18:09:07.123 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/media/storage/db/db_sqlite
+[Postbox] 2023-6-29 18:09:07.124 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/media/storage/db/db_sqlite
+[Postbox] 2023-6-29 18:09:07.124 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/guard_db/db_sqlite
+[Postbox] 2023-6-29 18:09:07.124 Did set up cipher
+[Postbox] 2023-6-29 18:09:07.124 Did set up cipher
+[Postbox] 2023-6-29 18:09:07.124 isEncrypted prepare...
+[Postbox] 2023-6-29 18:09:07.124 isEncrypted prepare...
+[Postbox] 2023-6-29 18:09:07.125 isEncrypted prepare done
+[Postbox] 2023-6-29 18:09:07.125 isEncrypted step done
+[Postbox] 2023-6-29 18:09:07.125 Did set up encryption
+[Postbox] 2023-6-29 18:09:07.125 Did set up pragmas
+[Postbox] 2023-6-29 18:09:07.125 Did set up checkpoint_fullfsync
+[Postbox] 2023-6-29 18:09:07.125 Did begin transaction
+[Postbox] 2023-6-29 18:09:07.125 isEncrypted prepare done
+[Postbox] 2023-6-29 18:09:07.125 isEncrypted step done
+[Postbox] 2023-6-29 18:09:07.125 Did set up encryption
+[Postbox] 2023-6-29 18:09:07.125 Did set up pragmas
+[Postbox] 2023-6-29 18:09:07.125 Did set up checkpoint_fullfsync
+[Postbox] 2023-6-29 18:09:07.125 Did begin transaction
+[Postbox] 2023-6-29 18:09:07.125 Did load tables
+[Postbox] 2023-6-29 18:09:07.125 Did load tables
+[Postbox] 2023-6-29 18:09:07.125 Did commit final
+[Postbox] 2023-6-29 18:09:07.125 Did commit final
+[Postbox] 2023-6-29 18:09:07.125 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/db/db_sqlite
+[Postbox] 2023-6-29 18:09:07.125 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/db/db_sqlite
+[Postbox] 2023-6-29 18:09:07.125 Did set up cipher
+[Postbox] 2023-6-29 18:09:07.125 isEncrypted prepare...
+[Postbox] 2023-6-29 18:09:07.125 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/media/cache-storage/db/db_sqlite
+[Postbox] 2023-6-29 18:09:07.125 isEncrypted prepare done
+[Postbox] 2023-6-29 18:09:07.125 isEncrypted step done
+[Postbox] 2023-6-29 18:09:07.125 Did set up encryption
+[Postbox] 2023-6-29 18:09:07.125 Did set up pragmas
+[Postbox] 2023-6-29 18:09:07.125 Did set up checkpoint_fullfsync
+[Postbox] 2023-6-29 18:09:07.125 Did begin transaction
+[Postbox] 2023-6-29 18:09:07.125 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/E308F027-C652-4EE5-887C-629C508DBC18/telegram-data/accounts-metadata/media/cache-storage/db/db_sqlite
+[Postbox] 2023-6-29 18:09:07.125 Did set up cipher
+[Postbox] 2023-6-29 18:09:07.125 isEncrypted prepare...
+[Postbox] 2023-6-29 18:09:07.126 isEncrypted prepare done
+[Postbox] 2023-6-29 18:09:07.126 isEncrypted step done
+[Postbox] 2023-6-29 18:09:07.126 Did load tables
+[Postbox] 2023-6-29 18:09:07.126 Did set up encryption
+[Postbox] 2023-6-29 18:09:07.126 Did commit final
+[Postbox] 2023-6-29 18:09:07.126 Did set up pragmas
+[Postbox] 2023-6-29 18:09:07.126 Did set up checkpoint_fullfsync
+[Postbox] 2023-6-29 18:09:07.126 Did begin transaction
+[Postbox] 2023-6-29 18:09:07.126 Did load tables
+[Postbox] 2023-6-29 18:09:07.126 Did commit final
+[Postbox] 2023-6-29 18:09:07.127 AccountManager: currentAccountId = Optional(TelegramCore.AccountRecordId(rawValue: 1063154370342547169))
+[Postbox] 2023-6-29 18:09:07.127 AccountManager initialization took 4.083991050720215 ms
